@@ -2093,7 +2093,7 @@ input, select, textarea {
 			}
 
 			.image.thumb:hover:after {
-				opacity: 1.0;
+				opacity: 0.9;
 			}
 
 			.image.thumb:hover:before {
