@@ -2459,6 +2459,7 @@ input, select, textarea {
 		padding: 0 1.5em;
 		text-align: raggedright;
 		text-decoration: none;
+		vertical-align:top;
 		white-space: normal;
 	}
 
